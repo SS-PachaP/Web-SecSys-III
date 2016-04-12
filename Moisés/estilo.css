@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: grey;
+}
+
+.Alis{
+    text-align: center;
+    width: 600px;
+    height: 400px;
+}
+.image{
+    width: 400px;
+    height: 200px;
+}
