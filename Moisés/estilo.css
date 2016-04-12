@@ -25,3 +25,26 @@
     width: 500px;
     height: 300px;
 }
+
+
+.David{
+    background: blue;
+}
+
+.David{
+    text-align: center;
+
+    width: 600px;
+    height: 400px;
+    margin: 20px;
+
+}
+.David h3{
+     background: orange;
+    color: darkblue;
+}
+.image1 img{
+     background: orange;
+    width: 500px;
+    height: 300px;
+}
