@@ -1,10 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Montaga);
 body{
+
 font-family: 'Montaga', serif;
 }
 ul.sdt_menu{
-margin-top:-700px;
+
+margin-top:-750px;
 }
+
 .silder{
     margin-top: 50px;
     overflow: hidden;
@@ -38,4 +41,7 @@ margin-top:-700px;
     75%{margin-left:-100%;}
     100%{margin-left:-100%;}
 }
+
+
+
 
