@@ -6,7 +6,7 @@
 
 body{
     width: 100%;
-    height: 500px;
+    height: 1500px;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#7d7e7d+0,0e0e0e+100;Black+3D */
 background: rgb(125,126,125); /* Old browsers */
 background: -moz-linear-gradient(top,  rgba(125,126,125,1) 0%, rgba(14,14,14,1) 100%); /* FF3.6-15 */
@@ -24,9 +24,11 @@ h1{
 }
 main img{
     width: 35%;
-    height: 20%;
+    height: 10%;
     border-radius: 20px;
     margin-left: 100px;
+    border: 10px;
+    border-color: black;
 }
 .cont1 img{
     float: right;
@@ -34,6 +36,11 @@ main img{
     margin-right: 100px;
 }
 .cont3 img{
+    float: right;
+    height: 20%;
+    margin-right: 100px;
+}
+.cont5 img{
     float: right;
     height: 20%;
     margin-right: 100px;
