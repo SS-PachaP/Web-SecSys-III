@@ -5,16 +5,23 @@
 }
 
 .Alis{
+    background: orange;
+}
+
+.Alis{
     text-align: center;
+
     width: 600px;
     height: 400px;
     margin: 20px;
-    background: orange;
+
 }
 .Alis h3{
+     background: orange;
     color: darkblue;
 }
 .image img{
+     background: orange;
     width: 400px;
     height: 200px;
 }
