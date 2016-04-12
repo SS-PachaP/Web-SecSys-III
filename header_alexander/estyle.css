@@ -1,12 +1,12 @@
-
+@import url(https://fonts.googleapis.com/css?family=Montaga);
 body{
-font-family:serif;
+font-family: 'Montaga', serif;
 }
 ul.sdt_menu{
 margin-top:-700px;
 }
 .silder{
-    margin-top: 30px;
+    margin-top: 50px;
     overflow: hidden;
 }
 .silder ul {
@@ -35,13 +35,7 @@ margin-top:-700px;
     50%{margin-left:-200%;}
     70%{margin-left:-200%;}
 
-    75%{margin-left:-300%;}
-    100%{margin-left:-300%;}
+    75%{margin-left:-100%;}
+    100%{margin-left:-100%;}
 }
-.silder2{
-    margin-top: -20px;
-}
-.silder2 img {
-    width:100%;
-    height: 100%;
-}
+
