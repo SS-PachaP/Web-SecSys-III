@@ -142,6 +142,9 @@ text-align: none;
 
 
 .titulo{
+    width: 100%;
+    position: fixed;
+z-index: 4000px;
     text-align: center;
     color: darkred;
 }
@@ -152,7 +155,7 @@ text-align: none;
 
 /*Para los estilos*/
 
-.estilos{
+.social{
  position: fixed;
  left: 0;
 top: 200px;
@@ -172,10 +175,15 @@ z-index: 2000px;
 
 
 .social ul li .icon-facebook{background: blue;}
-.social ul li icon-google-plus{background: red;}
-.social ul li .icon-facebook{background: blue;}
-.social ul li .icon-facebook{background: blue;}
-.social ul li .icon-facebook{background: blue;}
-.social ul li .icon-facebook{background: blue;}
-.social ul li .icon-facebook{background: blue;}
-.social ul li .icon-facebook{background: blue;}
+.social ul li .icon-google-plus{background: red;}
+.social ul li .icon-instagram{background: brown;}
+.social ul li .icon-twitter{background: skyblue;}
+.social ul li .icon-spotify{background: blue;}
+.social ul li .icon-whatsapp{background: green;}
+.social ul li .icon-youtube2{background: red;}
+.social ul li .icon-mail{background:azure;}
+
+.social ul li a:hover{
+    padding: 10px 30px;
+    background: #000;
+}
