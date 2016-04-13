@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Galeria</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="fonts.css">
+</head>
+<body>
+
+    <div class="main">
+    <div class="slides">
+            <img src="img/1.jpg" alt="Plaza Morales">
+            <img src="img/2.jpg" alt="Municipalidad">
+            <img src="img/3.jpg" alt="Abell">
+            <img src="img/4.jpg" alt="Alis">
+            <img src="img/5.jpg" alt="Willy">
+            <img src="img/6.jpg" alt="Equipo Secsys">
+            <img src="img/7.jpg" alt="Equipo Secsys">
+            <img src="img/8.jpg" alt="Equipo Secsys en Municipalidad">
+            <img src="img/9.jpg" alt="Equipo Secsys en Municipalidad">
+            <img src="img/10.jpg" alt="Equipo en espera">
+            <img src="img/11.jpg" alt="Self">
+            <img src="img/12.jpg" alt="Self 2">
+            <img src="img/13.jpg" alt="Saliendo de la Municipalidad">
+
+      </div>
+    </div>
+       <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+       <script src="js/jquery.slides.js"></script>
+    <script>
+        $(function(){
+         $(".slides").slidesjs({
+              play: {
+              active: true,
+              effect: "fade",
+              interval: 6000,
+              auto: false,
+              swap: true,
+              pauseOnHover: false,
+              restartDelay: 2500
+
+              }
+          });
+        });
+
+       </script>
+</body>
+</html>

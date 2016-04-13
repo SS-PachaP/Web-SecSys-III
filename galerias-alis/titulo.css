@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+.titulo{
+
+    background: black;
+    text-align: center;
+}
+
+.titulo p{
+    color: blue;
+    text-align: center;
+    margin-left: 2opx;
+}
+
+.info{
+    background: grey;
+    height: 40px;
+}
+
