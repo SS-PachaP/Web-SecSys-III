@@ -33,3 +33,6 @@ body{
 .slidesjs-pagination li a:hover{
     background: black;
 }
+.slides .active{
+     background: black;
+}
