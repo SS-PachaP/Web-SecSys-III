@@ -39,6 +39,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
 }
 
 
+
+
 .David{
     background: blue;
 }
@@ -60,3 +62,30 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     width: 500px;
     height: 300px;
 }
+
+
+
+
+
+.Alexander{
+    background: blue;
+}
+
+.Alexander{
+    text-align: center;
+
+    width: 600px;
+    height: 400px;
+    margin: 20px;
+
+}
+.Alenxander h3{
+     background: orange;
+    color: darkblue;
+}
+.image2 img{
+     background: orange;
+    width: 500px;
+    height: 300px;
+}
+
