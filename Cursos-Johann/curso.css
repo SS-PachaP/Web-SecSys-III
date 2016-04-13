@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+.titulo{
+
+    background: black;
+    text-align: center;
+}
+
+.titulo p{
+    color: brown;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.saenz img{
+    width: 500px;
+    height: 300px;
+    float: right;
+    margin: 20px;
+    margin-right: 200px;
+}
+.Biblia{
+    width: 500px;
+    margin: 20px;
+    margin-left: 200px;
+    text-align: center;
+}

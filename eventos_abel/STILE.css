@@ -1,0 +1,29 @@
+*{
+    margin: 20px;
+    padding: 0px;
+    background: #d8f3dc;
+}
+
+h1 {
+    text-align: center;
+}
+
+.evento{
+    margin: 40px auto;
+    width: 960px;
+    height: 1000px;
+    background: #9a2f2f;
+}
+.barra_inicio{
+    margin: 40px auto;
+    width: 960x;
+    height: 50px;
+    background: #2f549a;
+}
+
+.textoizquierda{
+    margin: 0px;
+    width: 300px;
+    height: 500px;
+    background: #2f549a;
+}
