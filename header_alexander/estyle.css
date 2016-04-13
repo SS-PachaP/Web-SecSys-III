@@ -81,4 +81,8 @@ margin-top:-780px;
     background: #E9967A;
 }
 
-
+.contotal{
+    width: 100%;
+    margin: 0;
+    max-width:100% ;
+}
