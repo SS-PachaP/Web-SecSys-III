@@ -83,10 +83,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 -moz-box-sizing:border-box
 }
 #galeria {
-border: 1px solid black;  /* Borde de la galería */
+border: 1px solid grey;  /* Borde de la galería */
 padding: 10px;
 padding-bottom: 0;
-background: grey;  /* Fondo de la galería */
 margin:50px  /* Ancho de la galería */
 }
 #galeria_miniaturas {
@@ -105,12 +104,12 @@ border-radius: 20px;
 border-color: 2px black rgba(255,255,255,0.12);
 }
 .miniatura {
-width:  60px;  /* Ancho de las miniaturas */
-height:  60px;  /* Alto de las miniaturas */
+width:  100px;  /* Ancho de las miniaturas */
+height:  100px;  /* Alto de las miniaturas */
 float: left;
 cursor: pointer;
-padding: 5px;
-margin: 10px 5px;
+margin: 10px 18px;
+    border-radius: 50px;
 }
 .miniatura:hover {
 opacity:.8;   /* Opacidad */
