@@ -1,3 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
 body{
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f3f3f3+36,ededed+62,c1c1c1+100 */
 background: rgb(255,255,255); /* Old browsers */
@@ -83,10 +90,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 -moz-box-sizing:border-box
 }
 #galeria {
-border: 1px solid black;  /* Borde de la galería */
+border: 1px solid grey;  /* Borde de la galería */
 padding: 10px;
 padding-bottom: 0;
-background: grey;  /* Fondo de la galería */
 margin:50px  /* Ancho de la galería */
 }
 #galeria_miniaturas {
@@ -105,12 +111,12 @@ border-radius: 20px;
 border-color: 2px black rgba(255,255,255,0.12);
 }
 .miniatura {
-width:  60px;  /* Ancho de las miniaturas */
-height:  60px;  /* Alto de las miniaturas */
+width:  100px;  /* Ancho de las miniaturas */
+height:  100px;  /* Alto de las miniaturas */
 float: left;
 cursor: pointer;
-padding: 5px;
-margin: 10px 5px;
+margin: 10px 18px;
+    border-radius: 50px;
 }
 .miniatura:hover {
 opacity:.8;   /* Opacidad */
@@ -143,3 +149,23 @@ text-align: none;
     width: 50%;
 }
 
+
+/*Para los estilos*/
+
+.estilos{
+ position: fixed;
+ left: 0;
+top: 200px;
+    z-index: 2000;
+}
+.social ul{
+    list-style: none;
+}
+
+.social ul li a{
+    display: inline-block;
+    color: #fff;
+    background: #000;
+    padding: 10px 15px;
+    text-decoration: none;
+}
