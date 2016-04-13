@@ -1,12 +1,16 @@
 *{
     margin: 0px;
     padding: 0px;
-    background: red;
+    background: #d8f3dc;
 }
 
-div#campo 1{
+h1 {
+    text-align: center;
+}
+
+.evento{
     margin: 40px auto;
-    padding: 960px;
-    height: 400px;
-    background-color: #ff1010;
+    width: 960px;
+    height: 200px;
+    background: #9a2f2f;
 }
