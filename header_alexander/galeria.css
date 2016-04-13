@@ -17,8 +17,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
 
 .derecha {
   width: 750px;
-  f
-    loat: left;
+  float: left;
   }
 
 /*  ELEMENTOS DEL MENU LATERAL  */
@@ -118,19 +117,10 @@ opacity:.8;   /* Opacidad */
 filter:alpha(opacity=80);
 }
 .miniatura:active {
-opacity:5;
+opacity:1;
 -moz-opacity:1;
 -khtml-opacity:1;
 filter:alpha(opacity=80);
-}
-
-#imgGaleria:hover{
-   opacity:.8;   /* Opacidad */
--moz-opacity:.8;
--khtml-opacity:.8;
-filter:alpha(opacity=80);
-text-align: none;
-
 }
 
 
@@ -141,4 +131,3 @@ text-align: none;
 .titulo p{
     width: 50%;
 }
-
