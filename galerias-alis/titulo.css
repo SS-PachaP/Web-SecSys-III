@@ -1,11 +1,18 @@
 
-.titulo{
-    margin-left: 0px;
+*{
+    margin: 0;
     padding: 0px;
+}
+
+.titulo{
+
     background: black;
     text-align: center;
 }
 
 .titulo p{
-     text-align: center;
+    color: blue;
+    text-align: center;
+    margin-left: 2opx;
 }
+

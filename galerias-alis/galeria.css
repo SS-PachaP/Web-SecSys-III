@@ -24,8 +24,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
 /*  ELEMENTOS DEL MENU LATERAL  */
 
 #menu {
-  padding:0;
-  margin:0 auto;
+  padding:0;;
+  margin:0px auto;
   list-style-type:none;
   width:160px;
   height:312px;
@@ -59,7 +59,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', end
 #menu2 li a {
   width:30px;
   height:120px;
-  float:left;
+  float:right;
   border-right:2px solid #fff;
   overflow: hidden;
   }
