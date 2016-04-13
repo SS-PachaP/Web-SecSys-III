@@ -118,7 +118,7 @@ opacity:.8;   /* Opacidad */
 filter:alpha(opacity=80);
 }
 .miniatura:active {
-opacity:1;
+opacity:5;
 -moz-opacity:1;
 -khtml-opacity:1;
 filter:alpha(opacity=80);
@@ -129,6 +129,8 @@ filter:alpha(opacity=80);
 -moz-opacity:.8;
 -khtml-opacity:.8;
 filter:alpha(opacity=80);
+text-align: none;
+
 }
 
 
