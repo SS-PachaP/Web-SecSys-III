@@ -1,0 +1,23 @@
+
+@import url(https://fonts.googleapis.com/css?family=Vollkorn:700);
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+
+    font-family: 'Vollkorn', serif;
+}
+header{
+
+    width: 100%;
+    background: #A9A9A9;
+    color: #fff;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+

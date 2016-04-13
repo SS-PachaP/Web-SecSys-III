@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: red;
+}
+
+.Alis{
+    background: orange;
+}
+
+.Alis{
+    text-align: center;
+
+    width: 600px;
+    height: 400px;
+    margin: 20px;
+
+}
+.Alis h3{
+     background: orange;
+    color: darkblue;
+}
+.image img{
+     background: orange;
+    width: 500px;
+    height: 300px;
+}
