@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background: red;
+}
+
+div#campo 1{
+    margin: 40px auto;
+    padding: 960px;
+    height: 400px;
+    background-color: #ff1010;
+}

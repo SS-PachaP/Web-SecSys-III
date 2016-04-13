@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+body{
+ /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#257016+0,1fa526+51,2cdb23+66,739e55+100 */
+background: #257016; /* Old browsers */
+background: -moz-linear-gradient(top,  #257016 0%, #1fa526 51%, #2cdb23 66%, #739e55 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #257016 0%,#1fa526 51%,#2cdb23 66%,#739e55 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #257016 0%,#1fa526 51%,#2cdb23 66%,#739e55 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', endColorstr='#739e55',GradientType=0 ); /* IE6-9 */
+ height: 1000px;
+     text-align: center;
+}
+
+.Alis{
+    text-align: center;
+
+    width: 600px;
+    height: 400px;
+    margin: 20px;
+    float:right;
+
+}
+.Alis{
+      background: yellow;
+}
+.Alis h3{
+     background: orange;
+    color: darkblue;
+}
+.image img{
+     background: orange;
+    width: 500px;
+    height: 300px;
+}
+
+
+.David{
+    background: blue;
+}
+
+.David{
+    text-align: center;
+
+    width: 600px;
+    height: 400px;
+    margin: 20px;
+
+}
+.David h3{
+     background: orange;
+    color: darkblue;
+}
+.image1 img{
+     background: orange;
+    width: 500px;
+    height: 300px;
+}
