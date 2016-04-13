@@ -156,7 +156,7 @@ text-align: none;
  position: fixed;
  left: 0;
 top: 200px;
-    z-index: 2000;
+z-index: 2000px;
 }
 .social ul{
     list-style: none;
@@ -169,3 +169,13 @@ top: 200px;
     padding: 10px 15px;
     text-decoration: none;
 }
+
+
+.social ul li .icon-facebook{background: blue;}
+.social ul li icon-google-plus{background: red;}
+.social ul li .icon-facebook{background: blue;}
+.social ul li .icon-facebook{background: blue;}
+.social ul li .icon-facebook{background: blue;}
+.social ul li .icon-facebook{background: blue;}
+.social ul li .icon-facebook{background: blue;}
+.social ul li .icon-facebook{background: blue;}
