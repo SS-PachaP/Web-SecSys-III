@@ -26,6 +26,24 @@
 
     </div>
     </div>
+       <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+       <script src="js/jquery.slides.js"></script>
+       <script>
+           $(function(){
+            $(".slides").slidesjs({
+              play: {
+              active: true,
+              effect: "slide",
+              interval: 3000,
+              auto: true,
+              swap: true,
+              pauseOnHover: false,
+              restartDelay: 2500
 
+                    }
+          });
+        });
+
+       </script>
 </body>
 </html>
