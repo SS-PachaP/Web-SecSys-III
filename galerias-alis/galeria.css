@@ -16,75 +16,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 
 }
 
-/*  CAPAS CONTENEDORAS  */
-
-#izquierda  {
-  width: 170px;
-  float: left;
-  }
-
-.derecha {
-  width: 750px;
-  f
-    loat: left;
-  }
-
-/*  ELEMENTOS DEL MENU LATERAL  */
-
-#menu {
-  padding:0;;
-  margin:0px auto;
-  list-style-type:none;
-  width:160px;
-  height:312px;
-  }
-#menu li a {
-  height:30px;
-  width:160px;
-  float:left;
-  border-bottom:2px solid #fff;
-  overflow: hidden;
-  }
-#menu li a img {
-  border:0;
-  }
-#menu li a:hover {
-  height:120px;
-  }
-#menu li img:hover {
-  width:160px;
-  }
-
-/*  ELEMENTOS DEL MENU SUPERIOR */
-
-#menu2 {
-  padding:0;
-  margin:0 auto;
-  list-style-type:none;
-  height:120px;
-  width:354px;
-  }
-#menu2 li a {
-  width:30px;
-  height:120px;
-  float:right;
-  border-right:2px solid #fff;
-  overflow: hidden;
-  }
-#menu2 li a img {
-  border:0;
-  }
-
-#menu2 li a:hover {
-  background:#eee;
-  width:160px;
-  }
-#menu2 li img:hover {
-  width:160px;
-  }
-
-
-
 #galeria, #galeria * {
     box-sizing:border-box,
 -moz-box-sizing:border-box
@@ -105,7 +36,7 @@ border: 1px solid #F2F2F2;  /* Borde de la imagen */
 padding: 3px;
 width: 600px; /* Ancho de la imagen */
 height: 300px; /* Alto de la imagen */
-margin-left: 200px;
+margin-left: 300px;
 margin-right: 200px;
 border-radius: 20px;
 border-color: 2px black rgba(255,255,255,0.12);
@@ -144,7 +75,7 @@ text-align: none;
 .social{
  position: fixed;
  left: 0;
-top: 200px;
+top: 310px;
 z-index: 2000px;
 }
 .social ul{
@@ -172,6 +103,10 @@ z-index: 2000px;
 .social ul li .icon-mail{background:azure;}
 
 .social ul li a:hover{
-    padding: 14px 30px;
-    background: #000;
+    padding: 14px 40px;
+    background: #000
+        opacity:.8;   /* Opacidad */
+-moz-opacity:.8;
+-khtml-opacity:.8;
+filter:alpha(opacity=80);
 }
