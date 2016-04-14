@@ -11,7 +11,7 @@ h1 {
 .evento{
     margin: 40px auto;
     width: 1500px;
-    height: 3000px;
+    height: 2920px;
     background: #2f84d9;
 }
 .barra_inicio{
@@ -23,7 +23,8 @@ h1 {
 
 .textoizquierda{
     margin: 20px;
-    width: 600px;
+    margin-right: 60px;
+    width: 560px;
     height: 500px;
     float: right;
     background: #2f84d9;
@@ -43,4 +44,36 @@ img.icon{
     margin: 0px;
     width: 770px;
     height: 500px;
+}
+.textoizquierda2{
+    margin: 0px;
+    margin-right: 60px;
+    width: 560px;
+    height: 500px;
+    float: right;
+    background: #2f84d9;
+}
+.textoizquierda3{
+    margin: 0px;
+    margin-right: 60px;
+    width: 560px;
+    height: 500px;
+    float: right;
+    background: #2f84d9;
+}
+.textoizquierda4{
+    margin: 0px;
+    margin-right: 60px;
+    width: 560px;
+    height: 500px;
+    float: right;
+    background: #2f84d9;
+}
+.textoizquierda5{
+    margin: 0px;
+    margin-right: 60px;
+    width: 560px;
+    height: 500px;
+    float: right;
+    background: #2f84d9;
 }
