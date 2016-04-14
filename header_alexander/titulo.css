@@ -15,7 +15,7 @@
 
 .titulo p{
     width: 800px;
-    margin-left: 300px;
+    margin-left: 100px;
     border-width: inherit;
     color: blue;
     text-align: center;
@@ -38,13 +38,13 @@ height: 120px;
 .red{
     width: 200px;
     float: right;
-    margin-left: 200px;
+    margin-right: 100px;
 }
 .red p{
     color: aliceblue;
 }
 .red1{
-    width: 150px;
+    width: 300px;
     float: right;
 }
 .red1 p{
@@ -53,7 +53,7 @@ height: 120px;
 .red2{
     width: 150px;
     float: left;
-    margin-left: 200px;
+    margin-left: 100px;
 }
 .red2 p{
     color: aliceblue;
