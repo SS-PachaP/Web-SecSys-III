@@ -17,61 +17,67 @@
 }
 
 .saenz img{
-    width: 450px;
+    width: 400px;
     height: 280px;
     float: right;
     margin: 20px;
-    margin-right: 200px;
+    margin-right: 100px;
 }
 .Biblia{
-    width: 500px;
+    width: 400px;
     margin: 20px;
-    margin-left: 200px;
+    margin-left: 100px;
     text-align: center inherit;
 }
 .chambi img{
-    width: 500px;
-    height: 250px;
-    float: left ;
+    width: 400px;
+    height: 280px;
+    float: right;
     margin: 20px;
-    margin-left: 200px;
+    margin-right: 100px;
 
 }
-.Base de Datos{
-    width: 500px;
+.BasedeDatos{
+   width: 400px;
     margin: 20px;
-    margin-left: 200px;
-    text-align: center;
+    margin-left: 100px;
+    text-align: center inherit;
 }
 
 
 .cesar img{
-    width: 500px;
-    height: 320px;
+    width: 400px;
+    height: 280px;
     float: right;
     margin: 20px;
-    margin-right: 200px;
+    margin-right: 100px;
 
 }
-.Arq.Com{
-    width: 600px;
-    margin: 40px;
-    margin-right: 200px;
+
+.cesar{
+    height: 500px;
+    width: 500px;
+    float: right;
+}
+.ArqCom{
+   width: 400px;
+    margin: 20px;
+    margin-left: 100px;
     text-align: center inherit;
 }
 
 
-.ticlavilca img{
-    width: 500px;
-    height: 300px;
-    float: left;
+.ticla img{
+    width: 400px;
+    float: right;
     margin: 20px;
-    margin-left: 200px;
-
+    float: right;
+    margin-right: 100px;
 }
-.Lp1 {
-    width: 600px;
+.Lp1{
+    width: 400px;
     margin: 20px;
-    margin-left: 200px;
-    text-align:left;
+    float: left;
+    margin-left: 100px;
+    text-align: center inherit;
 }
