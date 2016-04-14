@@ -1,0 +1,77 @@
+
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+.titulo{
+
+    background: black;
+    text-align: center;
+}
+
+.titulo p{
+    color: brown;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.saenz img{
+    width: 450px;
+    height: 280px;
+    float: right;
+    margin: 20px;
+    margin-right: 200px;
+}
+.Biblia{
+    width: 500px;
+    margin: 20px;
+    margin-left: 200px;
+    text-align: center inherit;
+}
+.chambi img{
+    width: 500px;
+    height: 250px;
+    float: left ;
+    margin: 20px;
+    margin-left: 200px;
+
+}
+.Base de Datos{
+    width: 500px;
+    margin: 20px;
+    margin-left: 200px;
+    text-align: center;
+}
+
+
+.cesar img{
+    width: 500px;
+    height: 320px;
+    float: right;
+    margin: 20px;
+    margin-right: 200px;
+
+}
+.Arq.Com{
+    width: 600px;
+    margin: 40px;
+    margin-right: 200px;
+    text-align: center inherit;
+}
+
+
+.ticlavilca img{
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin: 20px;
+    margin-left: 200px;
+
+}
+.Lp1 {
+    width: 600px;
+    margin: 20px;
+    margin-left: 200px;
+    text-align:left;
+}
