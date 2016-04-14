@@ -139,24 +139,13 @@ filter:alpha(opacity=80);
 text-align: none;
 
 }
-
-
-.titulo{
-    text-align: center;
-    color: darkred;
-}
-.titulo p{
-    width: 50%;
-}
-
-
 /*Para los estilos*/
 
-.estilos{
+.social{
  position: fixed;
  left: 0;
 top: 200px;
-    z-index: 2000;
+z-index: 2000px;
 }
 .social ul{
     list-style: none;
@@ -166,6 +155,23 @@ top: 200px;
     display: inline-block;
     color: #fff;
     background: #000;
-    padding: 10px 15px;
+    padding: 14px 18px;
     text-decoration: none;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+
+
+.social ul li .icon-facebook{background: blue;}
+.social ul li .icon-google-plus{background: red;}
+.social ul li .icon-instagram{background: brown;}
+.social ul li .icon-twitter{background: skyblue;}
+.social ul li .icon-spotify{background: blue;}
+.social ul li .icon-whatsapp{background: green;}
+.social ul li .icon-mail{background:azure;}
+
+.social ul li a:hover{
+    padding: 14px 30px;
+    background: #000;
 }
