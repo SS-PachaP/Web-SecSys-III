@@ -41,6 +41,11 @@ margin-right: 200px;
 border-radius: 20px;
 border-color: 2px black rgba(255,255,255,0.12);
 }
+
+#imgGaleria_imagen p{
+text-align: center;
+}
+
 .miniatura {
 width:  100px;  /* Ancho de las miniaturas */
 height:  100px;  /* Alto de las miniaturas */
