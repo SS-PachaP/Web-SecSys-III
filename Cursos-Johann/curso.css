@@ -55,23 +55,23 @@
 }
 .Arq.Com{
     width: 600px;
-    margin: 20px;
-    margin-left: 200px;
-    text-align: center;
+    margin: 40px;
+    margin-right: 200px;
+    text-align: center inherit;
 }
 
 
 .ticlavilca img{
-    width: 550px;
+    width: 500px;
     height: 300px;
     float: left;
     margin: 20px;
     margin-left: 200px;
 
 }
-.Lp1{
+.Lp1 {
     width: 600px;
-    margin: 40px;
+    margin: 20px;
     margin-left: 200px;
-    text-align: center;
+    text-align:left;
 }
