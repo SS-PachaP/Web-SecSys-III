@@ -20,7 +20,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
-    height: 400px;
+    height: 450px;
     margin: 20px;
     float:right;
 
@@ -33,9 +33,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     color: darkblue;
 }
 .image img{
-     background: orange;
     width: 500px;
     height: 300px;
+    border-radius: 20px;
+    border: 7px solid #fff;
 }
 
 
@@ -49,8 +50,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
-    height: 400px;
+    height: 450px;
     margin: 20px;
+    float:left;
 
 }
 .David h3{
@@ -58,9 +60,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     color: darkblue;
 }
 .image1 img{
-     background: orange;
     width: 500px;
     height: 300px;
+    border-radius: 20px;
+    border: 7px solid #fff;
 }
 
 
@@ -75,7 +78,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
-    height: 400px;
+    height: 450px;
     margin: 20px;
      float:right;
 
@@ -85,8 +88,87 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     color: darkblue;
 }
 .image2 img{
-     background: orange;
     width: 500px;
     height: 300px;
+    border-radius: 20px;
+    border: 7px solid #fff;
 }
+
+
+
+
+.Abel{
+    background: Red;
+}
+
+.Abel{
+    text-align: center;
+
+    width: 600px;
+    height: 450px;
+    margin: 20px;
+    float:left;
+
+
+}
+.Abel h3{
+    color: darkblue;
+}
+.image3 img{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    border: 7px solid #fff;
+}
+
+
+
+.Moises{
+    background: Red;
+}
+
+.Moises{
+    text-align: center;
+
+    width: 600px;
+    height: 450px;
+    margin: 20px;
+    float:right;
+
+
+}
+.Moises h3{
+    color: darkblue;
+}
+.image4 img{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    border: 7px solid #fff;
+}
+
+.diego{
+    background: azure;
+}
+
+.diego{
+    text-align: center;
+
+    width: 600px;
+    height: 450px;
+    margin: 20px;
+    float:right;
+
+
+}
+.diego h3{
+    color: darkblue;
+}
+.image5 img{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    border: 7px solid #fff;
+}
+
 

@@ -1,3 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
 body{
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f3f3f3+36,ededed+62,c1c1c1+100 */
 background: rgb(255,255,255); /* Old browsers */
@@ -9,84 +16,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 
 }
 
-/*  CAPAS CONTENEDORAS  */
-
-#izquierda  {
-  width: 170px;
-  float: left;
-  }
-
-.derecha {
-  width: 750px;
-  f
-    loat: left;
-  }
-
-/*  ELEMENTOS DEL MENU LATERAL  */
-
-#menu {
-  padding:0;;
-  margin:0px auto;
-  list-style-type:none;
-  width:160px;
-  height:312px;
-  }
-#menu li a {
-  height:30px;
-  width:160px;
-  float:left;
-  border-bottom:2px solid #fff;
-  overflow: hidden;
-  }
-#menu li a img {
-  border:0;
-  }
-#menu li a:hover {
-  height:120px;
-  }
-#menu li img:hover {
-  width:160px;
-  }
-
-/*  ELEMENTOS DEL MENU SUPERIOR */
-
-#menu2 {
-  padding:0;
-  margin:0 auto;
-  list-style-type:none;
-  height:120px;
-  width:354px;
-  }
-#menu2 li a {
-  width:30px;
-  height:120px;
-  float:right;
-  border-right:2px solid #fff;
-  overflow: hidden;
-  }
-#menu2 li a img {
-  border:0;
-  }
-
-#menu2 li a:hover {
-  background:#eee;
-  width:160px;
-  }
-#menu2 li img:hover {
-  width:160px;
-  }
-
-
-
 #galeria, #galeria * {
     box-sizing:border-box,
 -moz-box-sizing:border-box
 }
 #galeria {
-border: 1px solid black;  /* Borde de la galería */
+border: 1px solid grey;  /* Borde de la galería */
 padding: 10px;
 padding-bottom: 0;
-background: grey;  /* Fondo de la galería */
 margin:50px  /* Ancho de la galería */
 }
 #galeria_miniaturas {
@@ -99,18 +36,23 @@ border: 1px solid #F2F2F2;  /* Borde de la imagen */
 padding: 3px;
 width: 600px; /* Ancho de la imagen */
 height: 300px; /* Alto de la imagen */
-margin-left: 200px;
+margin-left: 300px;
 margin-right: 200px;
 border-radius: 20px;
 border-color: 2px black rgba(255,255,255,0.12);
 }
+
+#imgGaleria_imagen p{
+text-align: center;
+}
+
 .miniatura {
-width:  60px;  /* Ancho de las miniaturas */
-height:  60px;  /* Alto de las miniaturas */
+width:  100px;  /* Ancho de las miniaturas */
+height:  100px;  /* Alto de las miniaturas */
 float: left;
 cursor: pointer;
-padding: 5px;
-margin: 10px 5px;
+margin: 10px 18px;
+    border-radius: 50px;
 }
 .miniatura:hover {
 opacity:.8;   /* Opacidad */
@@ -133,13 +75,43 @@ filter:alpha(opacity=80);
 text-align: none;
 
 }
+/*Para los estilos*/
 
-
-.titulo{
-    text-align: center;
-    color: darkred;
+.social{
+ position: fixed;
+ left: 0;
+top: 310px;
+z-index: 2000px;
 }
-.titulo p{
-    width: 50%;
+.social ul{
+    list-style: none;
 }
 
+.social ul li a{
+    display: inline-block;
+    color: #fff;
+    background: #000;
+    padding: 14px 18px;
+    text-decoration: none;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+
+
+.social ul li .icon-facebook{background: blue;}
+.social ul li .icon-google-plus{background: red;}
+.social ul li .icon-instagram{background: brown;}
+.social ul li .icon-twitter{background: skyblue;}
+.social ul li .icon-spotify{background: blue;}
+.social ul li .icon-whatsapp{background: green;}
+.social ul li .icon-mail{background:azure;}
+
+.social ul li a:hover{
+    padding: 14px 40px;
+    background: #000
+        opacity:.8;   /* Opacidad */
+-moz-opacity:.8;
+-khtml-opacity:.8;
+filter:alpha(opacity=80);
+}
