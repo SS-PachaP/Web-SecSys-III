@@ -20,7 +20,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
-    height: 435px;
+    height: 450px;
     margin: 20px;
     float:right;
 
@@ -51,7 +51,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
 
     width: 600px;
     height: 450px;
-    height: 435px;
     margin: 20px;
 
 }
@@ -79,7 +78,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
 
     width: 600px;
     height: 450px;
-    height: 435px;
     margin: 20px;
      float:right;
 
@@ -107,7 +105,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
 
     width: 600px;
     height: 450px;
-    height: 435px;
     margin: 20px;
 
 
@@ -135,7 +132,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
-    height: 435px;
+    height: 450px;
     margin: 20px;
     float: right;
 
@@ -148,6 +145,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     background: orange;
     width: 500px;
     height: 300px;
+    border-radius: 20px;
+    border: 7px solid #fff;
+
 }
 
 
@@ -159,7 +159,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
 .Diego{
     text-align: center;
     width: 600px;
-    height: 435px;
+    height: 450px;
     margin: 20px;
 
 
@@ -172,5 +172,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     background: orange;
     width: 500px;
     height: 300px;
+    border-radius: 20px;
+    border: 7px solid #fff;
+
 }
 
