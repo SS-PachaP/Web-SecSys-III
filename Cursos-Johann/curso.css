@@ -46,47 +46,35 @@
 
 
 .cesar img{
-<<<<<<< HEAD
-    width: 450px;
-=======
-    width: 400px;
->>>>>>> origin/master
-    height: 280px;
+
+    width: 500px;
+    height: 300px;
     float: right;
     margin: 20px;
     margin-right: 100px;
 
 }
 
-.cesar{
-    height: 500px;
-    width: 500px;
-    float: right;
-}
+
 .ArqCom{
    width: 400px;
     margin: 20px;
     margin-left: 100px;
-    text-align: center inherit;
+    text-align: center justify;
 }
 
 
 .ticla img{
-    width: 400px;
+    width: 500px;
+    height: 300px;
     float: right;
     margin: 20px;
-    float: left;
     margin-right: 100px;
 }
-<<<<<<< HEAD
+
 .Lp1 {
-    width: 700px;
-=======
-.Lp1{
     width: 400px;
->>>>>>> origin/master
     margin: 20px;
-    float: left;
     margin-left: 100px;
-    text-align: center inherit;
+    text-align: center justify;
 }
