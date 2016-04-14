@@ -17,13 +17,27 @@
 }
 
 .saenz img{
-    width: 500px;
-    height: 300px;
+    width: 400px;
+    height: 250px;
     float: right;
     margin: 20px;
     margin-right: 200px;
 }
 .Biblia{
+    width: 500px;
+    margin: 20px;
+    margin-left: 200px;
+    text-align: center inherit;
+}
+.chambi img{
+    width: 500px;
+    height: 250px;
+    float: left ;
+    margin: 20px;
+    margin-right: 200px;
+
+}
+.Base de Datos{
     width: 500px;
     margin: 20px;
     margin-left: 200px;
