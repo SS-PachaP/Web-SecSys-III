@@ -117,3 +117,29 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
 }
 
 
+
+
+
+.Moises{
+    background: Turquoise;
+}
+
+.Moises{
+    text-align: center;
+
+    width: 600px;
+    height: 435px;
+    margin: 20px;
+    float: right;
+
+}
+.Moises h3{
+     background: orange;
+    color: darkblue;
+}
+.image4 img{
+     background: orange;
+    width: 500px;
+    height: 300px;
+}
+
