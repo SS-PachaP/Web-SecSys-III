@@ -20,13 +20,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
+<<<<<<< HEAD
     height: 450px;
+=======
+    height: 435px;
+>>>>>>> origin/master
     margin: 20px;
     float:right;
 
 }
 .Alis{
-      background: yellow;
+      background:yellow;
 }
 .Alis h3{
      background: orange;
@@ -50,7 +54,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
+<<<<<<< HEAD
     height: 450px;
+=======
+    height: 435px;
+>>>>>>> origin/master
     margin: 20px;
     float:left;
 
@@ -78,7 +86,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
+<<<<<<< HEAD
     height: 450px;
+=======
+    height: 435px;
+>>>>>>> origin/master
     margin: 20px;
      float:right;
 
@@ -105,7 +117,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
+<<<<<<< HEAD
     height: 450px;
+=======
+    height: 435px;
+>>>>>>> origin/master
     margin: 20px;
     float:left;
 
