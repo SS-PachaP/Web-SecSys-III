@@ -32,5 +32,18 @@ header{
     margin: 60px;
     width: 770px;
     height: 500px;
+    background-color: red;
 
+
+}
+div.panel{
+    width: 2px;
+    height: 50px;
+    float: left;
+}
+div#imagen{
+    background-color: rgb(49, 0, 255);
+}
+div#letras{
+    background-color: rgb(255, 186, 0);
 }
