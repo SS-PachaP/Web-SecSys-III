@@ -20,11 +20,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
-<<<<<<< HEAD
-    height: 450px;
-=======
     height: 435px;
->>>>>>> origin/master
     margin: 20px;
     float:right;
 
@@ -54,13 +50,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
-<<<<<<< HEAD
     height: 450px;
-=======
     height: 435px;
->>>>>>> origin/master
     margin: 20px;
-    float:left;
 
 }
 .David h3{
@@ -86,11 +78,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
-<<<<<<< HEAD
     height: 450px;
-=======
     height: 435px;
->>>>>>> origin/master
     margin: 20px;
      float:right;
 
@@ -117,17 +106,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     text-align: center;
 
     width: 600px;
-<<<<<<< HEAD
     height: 450px;
-=======
     height: 435px;
->>>>>>> origin/master
     margin: 20px;
-    float:left;
+
 
 
 }
-.Abel h3{
+.Abel h3{7
     color: darkblue;
 }
 .image3 img{
@@ -159,7 +145,31 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     color: darkblue;
 }
 .image4 img{
-     background: orange;
+    background: orange;
+    width: 500px;
+    height: 300px;
+}
+
+
+
+.Diego{
+    background: orange;
+}
+
+.Diego{
+    text-align: center;
+    width: 600px;
+    height: 435px;
+    margin: 20px;
+
+
+}
+.Diego h3{
+    background: orange;
+    color: darkblue;
+}
+.image5 img{
+    background: orange;
     width: 500px;
     height: 300px;
 }
