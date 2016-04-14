@@ -27,6 +27,7 @@ h1 {
     width: 560px;
     height: 500px;
     float: right;
+    font-size: 2.3em;
     background: #2f84d9;
 }
 header{
@@ -51,6 +52,7 @@ img.icon{
     width: 560px;
     height: 500px;
     float: right;
+    font-size: 2.3em;
     background: #2f84d9;
 }
 .textoizquierda3{
@@ -59,6 +61,7 @@ img.icon{
     width: 560px;
     height: 500px;
     float: right;
+    font-size: 2.3em;
     background: #2f84d9;
 }
 .textoizquierda4{
@@ -67,6 +70,7 @@ img.icon{
     width: 560px;
     height: 500px;
     float: right;
+    font-size: 2.3em;
     background: #2f84d9;
 }
 .textoizquierda5{
@@ -75,5 +79,6 @@ img.icon{
     width: 560px;
     height: 500px;
     float: right;
+    font-size: 2.3em;
     background: #2f84d9;
 }
