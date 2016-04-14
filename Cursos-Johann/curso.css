@@ -17,8 +17,8 @@
 }
 
 .saenz img{
-    width: 400px;
-    height: 250px;
+    width: 450px;
+    height: 280px;
     float: right;
     margin: 20px;
     margin-right: 200px;
@@ -34,7 +34,7 @@
     height: 250px;
     float: left ;
     margin: 20px;
-    margin-right: 200px;
+    margin-left: 200px;
 
 }
 .Base de Datos{
@@ -47,14 +47,14 @@
 
 .cesar img{
     width: 500px;
-    height: 250px;
+    height: 320px;
     float: right;
     margin: 20px;
     margin-right: 200px;
 
 }
 .Arq.Com{
-    width: 500px;
+    width: 600px;
     margin: 20px;
     margin-left: 200px;
     text-align: center;
@@ -62,16 +62,16 @@
 
 
 .ticlavilca img{
-    width: 500px;
-    height: 250px;
-    float: right;
+    width: 550px;
+    height: 300px;
+    float: left;
     margin: 20px;
-    margin-right: 200px;
+    margin-left: 200px;
 
 }
 .Lp1{
-    width: 500px;
-    margin: 20px;
+    width: 600px;
+    margin: 40px;
     margin-left: 200px;
     text-align: center;
 }
