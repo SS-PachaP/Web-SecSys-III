@@ -43,6 +43,8 @@
     margin-left: 200px;
     text-align: center;
 }
+
+
 .cesar img{
     width: 500px;
     height: 250px;
@@ -52,6 +54,22 @@
 
 }
 .Arq.Com{
+    width: 500px;
+    margin: 20px;
+    margin-left: 200px;
+    text-align: center;
+}
+
+
+.ticlavilca img{
+    width: 500px;
+    height: 250px;
+    float: right;
+    margin: 20px;
+    margin-right: 200px;
+
+}
+.Lp1{
     width: 500px;
     margin: 20px;
     margin-left: 200px;
