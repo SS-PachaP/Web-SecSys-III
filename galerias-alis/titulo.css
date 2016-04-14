@@ -1,19 +1,23 @@
 
 *{
-    margin: 0;
+    margin: 0px;
     padding: 0px;
 }
 
-.titulo{
-
+.titulo h1{
     background: black;
+     width: 100%;
+    position: fixed;
+    z-index: 4000px;
     text-align: center;
+    color: darkred;
 }
 
 .titulo p{
+    border-width: inherit
+        ;
     color: blue;
     text-align: center;
-    margin-left: 2opx;
 }
 
 .info{

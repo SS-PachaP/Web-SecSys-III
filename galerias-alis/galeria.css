@@ -139,20 +139,6 @@ filter:alpha(opacity=80);
 text-align: none;
 
 }
-
-
-.titulo h1{
-    width: 100%;
-    position: fixed;
-z-index: 4000px;
-    text-align: center;
-    color: darkred;
-}
-.titulo p{
-    width: 50%;
-}
-
-
 /*Para los estilos*/
 
 .social{
