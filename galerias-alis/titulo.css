@@ -40,13 +40,23 @@ height: 120px;
     float: right;
     margin-left: 200px;
 }
+.red p{
+    color: aliceblue;
+}
 .red1{
     width: 250px;
     float: right;
+}
+.red1 p{
+    color: aliceblue;
 }
 .red2{
     width: 300px;
     float: left;
     margin-left: 200px;
+}
+.red2 p{
+    color: aliceblue;
+    text-decoration: none;
 }
 
