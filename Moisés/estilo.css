@@ -26,7 +26,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
 
 }
 .Alis{
-      background:yellow;
+      background: yellow;
 }
 .Alis h3{
      background: orange;
@@ -52,6 +52,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     width: 600px;
     height: 450px;
     margin: 20px;
+    float:left;
 
 }
 .David h3{
@@ -106,11 +107,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     width: 600px;
     height: 450px;
     margin: 20px;
-
+    float:left;
 
 
 }
-.Abel h3{7
+.Abel h3{
     color: darkblue;
 }
 .image3 img{
@@ -122,10 +123,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
 
 
 
-
-
 .Moises{
-    background: Turquoise;
+    background: Red;
 }
 
 .Moises{
@@ -134,46 +133,42 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#257016', end
     width: 600px;
     height: 450px;
     margin: 20px;
-    float: right;
+    float:right;
+
 
 }
 .Moises h3{
-     background: orange;
     color: darkblue;
 }
 .image4 img{
-    background: orange;
     width: 500px;
     height: 300px;
     border-radius: 20px;
     border: 7px solid #fff;
-
 }
 
-
-
-.Diego{
-    background: orange;
+.diego{
+    background: azure;
 }
 
-.Diego{
+.diego{
     text-align: center;
+
     width: 600px;
     height: 450px;
     margin: 20px;
+    float:right;
 
 
 }
-.Diego h3{
-    background: orange;
+.diego h3{
     color: darkblue;
 }
 .image5 img{
-    background: orange;
     width: 500px;
     height: 300px;
     border-radius: 20px;
     border: 7px solid #fff;
-
 }
+
 
