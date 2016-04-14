@@ -53,6 +53,12 @@
     margin-right: 100px;
 
 }
+
+.cesar{
+    height: 500px;
+    width: 500px;
+    float: right;
+}
 .ArqCom{
    width: 400px;
     margin: 20px;
@@ -62,16 +68,16 @@
 
 
 .ticla img{
-   width: 400px;
-    height: 280px;
+    width: 400px;
     float: right;
     margin: 20px;
+    float: right;
     margin-right: 100px;
-
 }
 .Lp1{
     width: 400px;
     margin: 20px;
+    float: left;
     margin-left: 100px;
     text-align: center inherit;
 }
