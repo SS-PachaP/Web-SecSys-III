@@ -17,8 +17,8 @@
 }
 
 .saenz img{
-    width: 400px;
-    height: 280px;
+    width: 500px;
+    height: 300px;
     float: right;
     margin: 20px;
     margin-right: 100px;
@@ -30,8 +30,8 @@
     text-align: center inherit;
 }
 .chambi img{
-    width: 400px;
-    height: 280px;
+    width: 500px;
+    height: 300px;
     float: right;
     margin: 20px;
     margin-right: 100px;
@@ -73,6 +73,21 @@
 }
 
 .lp1 {
+    width: 400px;
+    margin: 20px;
+    margin-left: 100px;
+    text-align: center justify;
+}
+
+.evila img{
+    width: 500px;
+    height: 300px;
+    float: right;
+    margin: 20px;
+    margin-right: 100px;
+}
+
+.ecologia {
     width: 400px;
     margin: 20px;
     margin-left: 100px;
